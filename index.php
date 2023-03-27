@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <!-- Hello i'm a commit from github or from my peers -->
+<!-- Hi im a comment from my local device - justine -->
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
